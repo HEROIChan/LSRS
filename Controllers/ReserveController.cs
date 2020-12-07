@@ -6,9 +6,9 @@ namespace LSRS.Controllers
     public class  ReserveController : Controller
     {
         //get: /Reserve/
-        public string Index()
+        public IActionResult Index()
         {
-            return "my default action";
+            return View();
         }
            
     }
