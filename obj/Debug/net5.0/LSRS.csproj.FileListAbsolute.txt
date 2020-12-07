@@ -38,3 +38,4 @@ C:\Users\Heroi\Desktop\LSRS\obj\Debug\net5.0\ref\LSRS.dll
 C:\Users\Heroi\Desktop\LSRS\obj\Debug\net5.0\LSRS.pdb
 C:\Users\Heroi\Desktop\LSRS\obj\Debug\net5.0\LSRS.genruntimeconfig.cache
 C:\Users\Heroi\Desktop\LSRS\obj\Debug\net5.0\LSRS.csproj.CopyComplete
+C:\Users\Heroi\Desktop\LSRS\obj\Debug\net5.0\Razor\Views\Reverse\Index.cshtml.g.cs
